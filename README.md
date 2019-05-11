@@ -2,7 +2,14 @@
 Language detection,extract text and images from DOCX,XLSX,PDF,JPEG,PNG,BMP and GIF files. This repository also includes calculating hash and metadata of a given file.I've developed this project on Linux Ubuntu 18.04,through Python 2.7 version which already comes with Ubuntu.
 
 You can get more details about Google's Tesseract project here :                                                                      
-https://opensource.google.com/projects/tesseract
+`https://opensource.google.com/projects/tesseract`
+
+There are 2 screenshots of the project,you can either use terminal to see the results or Python codes to do what you need from this project such as detecting the given file's language, extracting the text and so on.
+
+![sc2](https://user-images.githubusercontent.com/29866395/57572445-19f9f600-7423-11e9-8f8a-53c9fe2a6366.jpg)
+
+![sc1](https://user-images.githubusercontent.com/29866395/57572440-064e8f80-7423-11e9-877b-f2c488c2c694.jpg)
+
 
 
 # How to Setup Tesseract
