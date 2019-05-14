@@ -14,7 +14,8 @@ There are 2 screenshots of the project,you can either use terminal to see the re
 
 # How to Setup Tesseract
 
-This part will take long a bit due to many dependencies of Tesseract. First of all, I am going to give you another Github page that you can find detailed explanations in terms of your OS:                                                                                                                   
+This part will take long a bit due to many dependencies of Tesseract. First of all, I am going to give you another Github page that you can find detailed explanations in terms of your OS:                                                                                                                                                                                                           
 **`https://github.com/tesseract-ocr`**                                                                            
 **`https://github.com/tesseract-ocr/tesseract/wiki/Compiling`**                                                         
 
+When you open tesseract-ocr page,you will get a few trained language models named **`tessdata_fast`**  or **`tessdata_best.`**. I've used tessdata_fast due to have less space that I have so you can decide which one you would like to use. 
