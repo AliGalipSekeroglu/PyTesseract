@@ -24,8 +24,8 @@ I strongly recommend you to follow instructions to setup Tesseract to your OS by
 There are also video representations of the compiling for Tesseract and Leptonica on Ubuntu,you can easily get your first results from terminal.
 
 
-After all dependencies that you will finish after following instructions, you must also get all these (Linux Ubuntu users) below:  **`     
-•	sudo apt install python-pip                                                                                         
+After all dependencies that you will finish after following instructions, you must also get all these (Linux Ubuntu users) below:       
+•	**`sudo apt install python-pip                                                                                         
 •	sudo pip3 install pillow pytesseract                                                                                    
 •	sudo snap install sublime-text –classic                                                                             
 •	pip install pytesseract                                                                               
@@ -47,9 +47,9 @@ After all dependencies that you will finish after following instructions, you mu
 •pip install sphinx                                                                                                     
 •sudo apt-get install libasound2-dev                                                                                      
 •pip install pocketsphinx                                                                                                          
-•pip install textract                                                                                               
+•pip install textract                                                                                              
 •	pip install pdfminer
 •	pip install langdetect                                                                                                        
 •	pip install pypdf2                                                                          
 •	pip install docx2txt                                                                              
-•	pip install pathlib    `**                                                                            
+•	pip install pathlib`**                                                                            
