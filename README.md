@@ -15,6 +15,6 @@ There are 2 screenshots of the project,you can either use terminal to see the re
 # How to Setup Tesseract
 
 This part will take long a bit due to many dependencies of Tesseract. First of all, I am going to give you another Github page that you can find detailed explanations in terms of your OS:                                                                                                                   
-**`https://github.com/tesseract-ocr`**
-**`https://github.com/tesseract-ocr/tesseract/wiki/Compiling`**
+**`https://github.com/tesseract-ocr`**                                                                            
+**`https://github.com/tesseract-ocr/tesseract/wiki/Compiling`**                                                         
 
