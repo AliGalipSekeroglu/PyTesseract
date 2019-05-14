@@ -20,11 +20,11 @@ This part will take long a bit due to many dependencies of Tesseract. First of a
 
 When you open **`tesseract-ocr`** page,you will get a few trained language models named **`tessdata_fast`**  or **`tessdata_best.`**. I've used **`tessdata_fast`** due to have less space that I have so you can decide which one you would like to use.                             
 
-I strongly recommend you to follow instructions to setup Tesseract to your OS by following second link that I shared(/wiki/Compiling).     
+I strongly recommend you to follow instructions to setup Tesseract to your OS by following second link that I shared(/wiki/Compiling).
 There are also video representations of the compiling for Tesseract and Leptonica on Ubuntu,you can easily get your first results from terminal.
 
-After all dependencies that you will finish after following instructions, you must also get all these (Linux Ubuntu users) below:     
 
+After all dependencies that you will finish after following instructions, you must also get all these (Linux Ubuntu users) below:  **`     
 •	sudo apt install python-pip                                                                                         
 •	sudo pip3 install pillow pytesseract                                                                                    
 •	sudo snap install sublime-text –classic                                                                             
@@ -36,20 +36,20 @@ After all dependencies that you will finish after following instructions, you mu
 •	pip install langdetect                                                                                                            
 •	pip install opencv-python                                                                                                   
 •	sudo pip install python-dev                                                                                               
-•	sudo pip install hashlib
-•	pip install –upgrade setuptools
-•	pip install pillow
-•	apt-get install tesseract-ocr libtesseract –dev libleptonica-dev
-•	pip install tesserocr
-•	apt-get install python-dev libxml2-dev libxslt1-dev antiword unrtf poppler-utils pstotext tesseract-ocr \ flac ffmpeg lame libmad0 libsox-fmt-mp3 sox libjpeg-dev swig
-•	sudo apt-get install –y python python-dev
-•	python-pip build-essential swig git libpulse-dev,
-•pip install sphinx
-•sudo apt-get install libasound2-dev
-•pip install pocketsphinx
-•pip install textract
+•	sudo pip install hashlib                                                                                          
+•	pip install –upgrade setuptools                                                                                         
+•	pip install pillow                                                                                                
+•	apt-get install tesseract-ocr libtesseract –dev libleptonica-dev                                                                      
+•	pip install tesserocr                                                                                                             
+•	apt-get install python-dev libxml2-dev libxslt1-dev antiword unrtf poppler-utils pstotext tesseract-ocr \ flac ffmpeg lame libmad0 libsox-fmt-mp3 sox libjpeg-dev swig                                                                                                
+•	sudo apt-get install –y python python-dev                                                                                         
+•	python-pip build-essential swig git libpulse-dev                                                                                       
+•pip install sphinx                                                                                                     
+•sudo apt-get install libasound2-dev                                                                                      
+•pip install pocketsphinx                                                                                                          
+•pip install textract                                                                                               
 •	pip install pdfminer
-•	pip install langdetect
-•	pip install pypdf2
-•	pip install docx2txt
-•	pip install pathlib
+•	pip install langdetect                                                                                                        
+•	pip install pypdf2                                                                          
+•	pip install docx2txt                                                                              
+•	pip install pathlib    `**                                                                            
