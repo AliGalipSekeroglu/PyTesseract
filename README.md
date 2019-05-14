@@ -18,4 +18,6 @@ This part will take long a bit due to many dependencies of Tesseract. First of a
 **`https://github.com/tesseract-ocr`**                                                                            
 **`https://github.com/tesseract-ocr/tesseract/wiki/Compiling`**                                                         
 
-When you open tesseract-ocr page,you will get a few trained language models named **`tessdata_fast`**  or **`tessdata_best.`**. I've used tessdata_fast due to have less space that I have so you can decide which one you would like to use. 
+When you open tesseract-ocr page,you will get a few trained language models named **`tessdata_fast`**  or **`tessdata_best.`**. I've used tessdata_fast due to have less space that I have so you can decide which one you would like to use.                             
+
+I strongly recommend you to follow instructions to setup Tesseract to your OS by following second link that I shared (/wiki/Compiling) There are also video representations of the compiling for Tesseract and Leptonica on Ubuntu,you can easily get your first results from terminal.
