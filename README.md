@@ -25,3 +25,31 @@ There are also video representations of the compiling for Tesseract and Leptonic
 
 After all dependencies that you will finish after following instructions, you must also get all these (Linux Ubuntu users) below:     
 
+•	sudo apt install python-pip                                                                                         
+•	sudo pip3 install pillow pytesseract                                                                                    
+•	sudo snap install sublime-text –classic                                                                             
+•	pip install pytesseract                                                                               
+•	sudo apt-get update                                                                                                     
+•	sudo apt-get install python 3.6                                                                                             
+•	sudo apt-get install imagemagick                                                                                
+•	sudo pip install wand                                                                                                         
+•	pip install langdetect                                                                                                            
+•	pip install opencv-python                                                                                                   
+•	sudo pip install python-dev                                                                                               
+•	sudo pip install hashlib
+•	pip install –upgrade setuptools
+•	pip install pillow
+•	apt-get install tesseract-ocr libtesseract –dev libleptonica-dev
+•	pip install tesserocr
+•	apt-get install python-dev libxml2-dev libxslt1-dev antiword unrtf poppler-utils pstotext tesseract-ocr \ flac ffmpeg lame libmad0 libsox-fmt-mp3 sox libjpeg-dev swig
+•	sudo apt-get install –y python python-dev
+•	python-pip build-essential swig git libpulse-dev,
+•pip install sphinx
+•sudo apt-get install libasound2-dev
+•pip install pocketsphinx
+•pip install textract
+•	pip install pdfminer
+•	pip install langdetect
+•	pip install pypdf2
+•	pip install docx2txt
+•	pip install pathlib
