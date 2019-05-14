@@ -53,3 +53,10 @@ After all dependencies that you will finish after following instructions, you mu
 •	pip install pypdf2                                                                          
 •	pip install docx2txt                                                                              
 •	pip install pathlib`**                                                                            
+
+
+In the end, you are going to be able to see these results below :
+
+![sc3](https://user-images.githubusercontent.com/29866395/57735681-1af28800-76ae-11e9-8528-d1e04fd1651f.jpg)
+
+
