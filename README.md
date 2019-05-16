@@ -64,20 +64,19 @@ In the end, you are going to be able to see these results below :
 I deal with a few problems during coding (not to hard to come over) so I am also adding links that I've used,if you even still have a problem,you can reach me by e-mail or LinkedIn. Stay with Python!
 
 
-https://askubuntu.com/questions/92379/how-do-i-get-permissions-to-edit-system-configuration-files
-https://askubuntu.com/questions/770262/python-hashlib-fails-to-install-pip
-https://stackoverflow.com/questions/27850629/python-hachoir-metadata-reading-fps-tag-from-mp4-file/27859415
-https://stackoverflow.com/questions/44435595/extract-pictures-from-word-and-excel-with-python
-https://stackoverflow.com/questions/44435595/extract-pictures-from-word-and-excel-with-python
-https://stackoverflow.com/questions/21697645/how-to-extract-metadata-from-a-image-using-python
-https://stackoverflow.com/questions/39142778/python-how-to-determine-the-language
-https://stackoverflow.com/questions/52699608/wand-policy-error-error-constitute-c-readimage-412
-https://stackoverflow.com/questions/53458606/using-tesseract-to-extract-text-and-pictures-photos-charts-and-tables-referen
-https://stackoverflow.com/questions/47133072/how-to-extract-images-from-a-scanned-pdf
-https://stackoverflow.com/questions/27850629/python-hachoir-metadata-reading-fps-tag-from-mp4-file/27859415
-https://stackoverflow.com/questions/4764932/in-python-how-do-i-read-the-exif-data-for-an-image
-https://stackoverflow.com/questions/39142778/python-how-to-determine-the-language 
-https://stackoverflow.com/questions/4969497/video-meta-data-using-python
-https://stackoverflow.com/questions/44916890/converting-doc-to-pure-text-using-python
-https://stackoverflow.com/questions/27691678/finding-image-present-docx-file-using-python
+https://askubuntu.com/questions/92379/how-do-i-get-permissions-to-edit-system-configuration-files                                 
+https://askubuntu.com/questions/770262/python-hashlib-fails-to-install-pip                                                    
+https://stackoverflow.com/questions/27850629/python-hachoir-metadata-reading-fps-tag-from-mp4-file/27859415                   
+https://stackoverflow.com/questions/44435595/extract-pictures-from-word-and-excel-with-python                                   
+https://stackoverflow.com/questions/21697645/how-to-extract-metadata-from-a-image-using-python                                        
+https://stackoverflow.com/questions/39142778/python-how-to-determine-the-language                                                       
+https://stackoverflow.com/questions/52699608/wand-policy-error-error-constitute-c-readimage-412                                     
+https://stackoverflow.com/questions/53458606/using-tesseract-to-extract-text-and-pictures-photos-charts-and-tables-referen            
+https://stackoverflow.com/questions/47133072/how-to-extract-images-from-a-scanned-pdf                                       
+https://stackoverflow.com/questions/27850629/python-hachoir-metadata-reading-fps-tag-from-mp4-file/27859415                 
+https://stackoverflow.com/questions/4764932/in-python-how-do-i-read-the-exif-data-for-an-image                            
+https://stackoverflow.com/questions/39142778/python-how-to-determine-the-language                                             
+https://stackoverflow.com/questions/4969497/video-meta-data-using-python                                                  
+https://stackoverflow.com/questions/44916890/converting-doc-to-pure-text-using-python                                         
+https://stackoverflow.com/questions/27691678/finding-image-present-docx-file-using-python                                       
 
