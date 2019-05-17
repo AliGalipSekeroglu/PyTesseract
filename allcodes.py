@@ -226,7 +226,7 @@ if __name__== "__main__":
   extractedText=ExtractTextFromFile('sample2.docx','pdfminer','eng') #text2 = textract.process('sample.pdf',method='tesseract',language='eng') #PDF to Text
   DetectLanguage(extractedText)
   ExtractImagePdf('sampleimage.pdf')
-  extractPicsFromDir('/home/aligalip/project-tesseract-all/extracted_images/')
+  extractPicsFromDir('/home/aligalip/project-tesseract-all/extracted_images/') #You must copy files that you want to get extracted images from in a specific path.
   GetPdfMetadata('sample.pdf')
   metadata_for('novel.jpg')
   HashMyFile("test2.xlsx")
