@@ -119,7 +119,7 @@ def extractPicsFromDir(dirPath=""):
         print("Not a directory path!")
         exit(1)
 
-uDir = 'home/aligalip/project-tesseract-all/exracted_images'
+uDir = 'home/aligalip/project-tesseract-all/exracted_images' #You must copy files that you want to get extracted images from in a specific path.
 extractPicsFromDir(uDir)
 
 """
